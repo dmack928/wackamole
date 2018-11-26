@@ -1,2 +1,4 @@
 # wackamole
-a game in vanilla javascript
+a game in vanilla javascript.
+
+
