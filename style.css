@@ -2,7 +2,7 @@
 html {
   box-sizing: border-box;
   font-size: 10px;
-  background: #7DFF35;
+  background: #FF8A0C;
 }
 
 *, *:before, *:after {
@@ -46,7 +46,7 @@ h1 {
 
 .hole:after {
   display: block;
-  background: url(dirt.svg) bottom center no-repeat;
+  background: url(earthdirt.svg) bottom center no-repeat;
   background-size: contain;
   content: '';
   width: 100%;
